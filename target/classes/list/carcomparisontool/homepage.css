@@ -1,0 +1,28 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Apr 12, 2023, 4:11:30 PM
+    Author     : nicholasshah
+*/
+
+.homeBackGround{
+    -fx-background-image:url('file:Images/car-background.jpg');
+}
+.VBoxBackground{
+   
+        -fx-background-color: rgba(0,0,0,0.7);
+        -fx-text-fill: white;
+
+}
+#my-combo-box  .list-cell {
+  -fx-text-fill: white;
+  -fx-background-color: rgba(0,0,0,0.7);
+}
+.textWhite{
+    -fx-text-fill: white;
+}
+
+
+

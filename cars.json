@@ -1,0 +1,247 @@
+[
+    {
+        "makeName": "Honda",
+        "modelName": "Accord",
+        "bodyStyle": "Sedan",
+        "doors": 4,
+        "passengerCapacity": 5,
+        "mpg": 30,
+        "cost": 24000
+    },
+    {
+        "makeName": "Honda",
+        "modelName": "Civic",
+        "bodyStyle": "Coupe",
+        "doors": 2,
+        "passengerCapacity": 4,
+        "mpg": 35,
+        "cost": 21000
+    },
+     {
+        "makeName": "Honda",
+        "modelName": "Passport",
+        "bodyStyle": "SUV",
+        "doors": 4,
+        "passengerCapacity": 5,
+        "mpg": 23,
+        "cost": 41100
+    },
+     {
+        "makeName": "Honda",
+        "modelName": "Pilot",
+        "bodyStyle": "SUV",
+        "doors": 4,
+        "passengerCapacity": 8,
+        "mpg": 18,
+        "cost": 48350
+    },
+    {
+        "makeName": "Honda",
+        "modelName": "CR-V",
+        "bodyStyle": "SUV",
+        "doors": 4,
+        "passengerCapacity": 5,
+        "mpg": 28,
+        "cost": 25500
+    },
+    {
+        "makeName": "Toyota",
+        "modelName": "Corolla",
+        "bodyStyle": "Sedan",
+        "doors": 4,
+        "passengerCapacity": 5,
+        "mpg": 33,
+        "cost": 20000
+    },
+     {
+        "makeName": "Toyota",
+        "modelName": "Camry",
+        "bodyStyle": "Sedan",
+        "doors": 4,
+        "passengerCapacity": 5,
+        "mpg": 35,
+        "cost": 26220
+    },
+     {
+        "makeName": "Toyota",
+        "modelName": "Crown",
+        "bodyStyle": "Sedan",
+        "doors": 4,
+        "passengerCapacity": 5,
+        "mpg": 42,
+        "cost": 39950
+    },
+    {
+        "makeName": "Toyota",
+        "modelName": "Supra",
+        "bodyStyle": "Coupe",
+        "doors": 2,
+        "passengerCapacity": 2,
+        "mpg": 25,
+        "cost": 44040
+    },
+     {
+        "makeName": "Toyota",
+        "modelName": "Prius",
+        "bodyStyle": "Sedan",
+        "doors": 4,
+        "passengerCapacity": 5,
+        "mpg": 54,
+        "cost": 26285
+    },
+     {
+        "makeName": "Toyota",
+        "modelName": "GR86",
+        "bodyStyle": "Coupe",
+        "doors": 2,
+        "passengerCapacity": 2,
+        "mpg": 25,
+        "cost": 28400
+    },
+    {
+        "makeName": "Toyota",
+        "modelName": "Rav4",
+        "bodyStyle": "SUV",
+        "doors": 4,
+        "passengerCapacity": 5,
+        "mpg": 30,
+        "cost": 25500
+    },
+    {
+        "makeName": "Ford",
+        "modelName": "Fusion",
+        "bodyStyle": "Sedan",
+        "doors": 4,
+        "passengerCapacity": 5,
+        "mpg": 25,
+        "cost": 21768
+    },
+    {
+        "makeName": "Ford",
+        "modelName": "Mustang",
+        "bodyStyle": "Coupe",
+        "doors": 2,
+        "passengerCapacity": 4,
+        "mpg": 25,
+        "cost": 27000
+    },
+    {
+        "makeName": "Ford",
+        "modelName": "Mustang-E",
+        "bodyStyle": "SUV",
+        "doors": 4,
+        "passengerCapacity": 5,
+        "mpg": 0 ,
+        "cost": 45995
+    },
+    {
+        "makeName": "Ford",
+        "modelName": "Explorer",
+        "bodyStyle": "SUV",
+        "doors": 4,
+        "passengerCapacity": 7,
+        "mpg": 24,
+        "cost": 33000
+    },
+     {
+        "makeName": "Ford",
+        "modelName": "Bronco",
+        "bodyStyle": "SUV",
+        "doors": 4,
+        "passengerCapacity": 5,
+        "mpg": 24,
+        "cost": 34595
+    },
+
+    {
+        "makeName": "BMW",
+        "modelName": "X6",
+        "bodyStyle": "SUV",
+        "doors": 4,
+        "passengerCapacity": 5,
+        "mpg": 24,
+        "cost": 70100
+    },
+   
+    {
+        "makeName": "BMW",
+        "modelName": "330xi",
+        "bodyStyle": "Sedan",
+        "doors": 4,
+        "passengerCapacity": 5,
+        "mpg": 26,
+        "cost": 46795
+    },
+     {
+        "makeName": "BMW",
+        "modelName": "530xi",
+        "bodyStyle": "Sedan",
+        "doors": 4,
+        "passengerCapacity": 5,
+        "mpg": 26,
+        "cost": 58300
+    },
+         {
+        "makeName": "BMW",
+        "modelName": "750xi",
+        "bodyStyle": "Sedan",
+        "doors": 4,
+        "passengerCapacity": 4,
+        "mpg": 22,
+        "cost": 103000
+    },
+    {
+        "makeName": "BMW",
+        "modelName": "M2",
+        "bodyStyle": "Coupe",
+        "doors": 2,
+        "passengerCapacity": 4,
+        "mpg": 23,
+        "cost": 51000
+    },
+        {
+        "makeName": "BMW",
+        "modelName": "440xi",
+        "bodyStyle": "Coupe",
+        "doors": 2,
+        "passengerCapacity": 4,
+        "mpg": 26,
+        "cost": 45900
+    },
+      {
+        "makeName": "BMW",
+        "modelName": "850xi",
+        "bodyStyle": "Coupe",
+        "doors": 2,
+        "passengerCapacity": 4,
+        "mpg": 24,
+        "cost": 102500
+    },
+    {
+        "makeName": "Subaru",
+        "modelName": "Impreza",
+        "bodyStyle": "Sedan",
+        "doors": 4,
+        "passengerCapacity": 5,
+        "mpg": 31,
+        "cost": 19000
+    },
+    {
+        "makeName": "Subaru",
+        "modelName": "BRZ",
+        "bodyStyle": "Coupe",
+        "doors": 2,
+        "passengerCapacity": 4,
+        "mpg": 25,
+        "cost": 28000
+    },
+    {
+        "makeName": "Subaru",
+        "modelName": "Outback",
+        "bodyStyle": "SUV",
+        "doors": 4,
+        "passengerCapacity": 5,
+        "mpg": 28,
+        "cost": 28395
+    }
+]

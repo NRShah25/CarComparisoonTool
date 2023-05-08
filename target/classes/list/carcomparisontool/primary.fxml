@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.shape.Rectangle?>
+
+<AnchorPane prefHeight="480.0" prefWidth="640.0" styleClass="homeBackGround" stylesheets="@homepage.css" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="list.carcomparisontool.PrimaryController">
+   <children>
+      <HBox prefHeight="68.0" prefWidth="344.0" spacing="50.0">
+         <children>
+            <ComboBox id="my-combo-box" fx:id="makeComboBox" prefWidth="150.0" promptText="Make" styleClass="VBoxBackground" />
+            <ComboBox id="my-combo-box" fx:id="modelComboBox" prefWidth="150.0" promptText="Model" styleClass="VBoxBackground" />
+         </children>
+      </HBox>
+      <ImageView fx:id="carImageView" fitHeight="159.0" fitWidth="224.0" layoutX="408.0" layoutY="59.0" pickOnBounds="true" preserveRatio="true" />
+      <VBox fx:id="carInfo" layoutY="55.0" prefHeight="159.0" prefWidth="147.0" spacing="25.0" styleClass="VBoxBackground">
+         <children>
+            <Label fx:id="makeLabel" styleClass="textWhite" text="Make:" />
+            <Label fx:id="modelLabel" styleClass="textWhite" text="Model:" />
+            <Label fx:id="bodyStyleLabel" styleClass="textWhite" text="Body Style:" />
+            <Label fx:id="doorsLabel" styleClass="textWhite" text="Doors:" />
+         </children>
+      </VBox>
+      <VBox fx:id="carInfo11" layoutX="197.0" layoutY="55.0" prefHeight="159.0" prefWidth="147.0" spacing="25.0" styleClass="VBoxBackground">
+         <children>
+            <Label fx:id="passengerCapacityLabel" styleClass="textWhite" text="Passanger Capacity:" />
+            <Label fx:id="mpgLabel" styleClass="textWhite" text="MPG:" />
+            <Label fx:id="costLabel" styleClass="textWhite" text="Cost:" />
+         </children>
+      </VBox>
+      <HBox layoutY="259.0" prefHeight="68.0" prefWidth="344.0" spacing="50.0">
+         <children>
+            <ComboBox id="my-combo-box" fx:id="makeComboBox1" prefWidth="150.0" promptText="Make" styleClass="VBoxBackground" />
+            <ComboBox id="my-combo-box" fx:id="modelComboBox1" prefWidth="150.0" promptText="Model" styleClass="VBoxBackground" />
+         </children>
+      </HBox>
+      <VBox fx:id="carInfo1" layoutY="314.0" prefHeight="159.0" prefWidth="147.0" spacing="25.0" styleClass="VBoxBackground">
+         <children>
+            <Label fx:id="makeLabel1" styleClass="textWhite" text="Make:" />
+            <Label fx:id="modelLabel1" styleClass="textWhite" text="Model:" />
+            <Label fx:id="bodyStyleLabel1" styleClass="textWhite" text="Body Style:" />
+            <Label fx:id="doorsLabel1" styleClass="textWhite" text="Doors:" />
+         </children>
+      </VBox>
+      <VBox fx:id="carInfo111" layoutX="197.0" layoutY="314.0" prefHeight="159.0" prefWidth="147.0" spacing="25.0" styleClass="VBoxBackground">
+         <children>
+            <Label fx:id="passengerCapacityLabel1" styleClass="textWhite" text="Passanger Capacity:" />
+            <Label fx:id="mpgLabel1" styleClass="textWhite" text="MPG:" />
+            <Label fx:id="costLabel1" styleClass="textWhite" text="Cost:" />
+         </children>
+      </VBox>
+      <Rectangle arcHeight="5.0" arcWidth="5.0" height="8.0" layoutY="236.0" stroke="BLACK" strokeType="INSIDE" width="640.0" />
+      <ImageView fx:id="carImageView1" fitHeight="159.0" fitWidth="224.0" layoutX="408.0" layoutY="317.0" pickOnBounds="true" preserveRatio="true" />
+      <ComboBox id="my-combo-box" fx:id="bodyStyleComboBox" layoutX="422.0" layoutY="2.0" prefWidth="150.0" styleClass="VBoxBackground" />
+      <ComboBox id="my-combo-box" fx:id="bodyStyleComboBox1" layoutX="422.0" layoutY="259.0" prefWidth="150.0" styleClass="VBoxBackground" />
+   </children>
+</AnchorPane>
